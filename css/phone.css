@@ -1,0 +1,160 @@
+body {
+    background-image: url(/img/background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    width: 1054px;
+    height: 2278px;
+}
+
+.container3 {
+    display: flex;
+    flex-direction: column;
+    border: 2px solid rgb(255, 255, 255);
+    float: right;
+    margin: 219px 146px 38px 31px;
+    width: 100%;
+    max-width: 600px;
+    background: rgba(0, 0, 0, 0.65);
+    box-shadow: 0px 34px 101px rgba(9, 0, 63, 0.38);
+    border-radius: 24px;
+}
+
+.check {
+    font-size: 61px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 100;
+    color: #ffffff;
+    margin: 21px 2px 2px 10px
+}
+
+.city {
+    font-size: 72px;
+    font-family: plus;
+    font-style: normal;
+    font-weight: 100;
+    color: #ffffff;
+    margin: -2px 2px 2px 74px;
+}
+
+.boxe4 {
+    position:realtive;
+    background: rgba(31, 46, 84, 0.45);
+    padding: 18em;
+    border-radius: 30px;
+    box-shadow: 0px 34px 101px rgb(9 0 63 / 38%);
+    width: 100%;
+    max-width: 420px;
+    margin: 934px 2px 2px 25px;
+}
+
+input {
+    height: 121px;
+    width: 578px;
+    margin: -32px 1px 1px -230px;
+    top: -216px;
+}
+
+.input4 {
+    position: relative;
+    background: rgba(31, 46, 84, 0.45);
+    box-shadow: 0px 34px 101px rgb(9 0 63 / 38%);
+    transform: rotate(-0.07deg);
+    color: #ffffff;
+    font-size: 99px;
+    font-family: Roboto;
+    border-radius: 5px;
+    padding: 3px;
+}
+
+button {
+    position: relative;
+    display: flex;
+    width: 147px;
+    height: 99px;
+    padding: -6px 0px 1px 1px;
+    margin: -331px 0px 10px 376px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 68px;
+    border: none;
+    background: rgba(147, 141, 141, 0.65);
+}
+
+.image {
+    position: relative;
+    width: 486px;
+    height: 486.32px;
+    margin: -4px 0px 1px -256px;
+    padding: 27px 19px 2px 19px;
+    color: #ffffff;
+}
+
+h1 {
+    font-size: 140px;
+    margin: -334px -315px 88px 229px;
+    font-family: "Plus Jakarta Sans";
+    font-weight: 700;
+    font-style: normal;
+    text-transform: capitalize;
+    background: linear-gradient(180deg, #C1CFDB 54.68%, rgba(255, 255, 255, 0) 187.46%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    transform: rotate(-0.07deg);
+}
+h2 {
+    font-size: 75px;
+    margin: -90px -74px 2px 247px;
+    font-family: "Plus Jakarta Sans";
+    font-weight: 600;
+    font-style: normal;
+    text-transform: capitalize;
+    color: #E0EBF4;
+    transform: rotate(-0.07deg);
+}
+.icon {
+    width: 112px;
+    height: 109px;
+}
+
+.details {
+    display: flex;
+    flex-direction: row;
+    margin: 81px -134px -27px -212px;
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 61px;
+}
+
+.details1 {
+    display: flex;
+    flex-direction: row;
+    margin: 231px 1px 0px -400px;
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 61px;
+}
+
+.details2 {
+    display: flex;
+    flex-direction: row;
+    margin: 367px 1px -121px -448px;
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 61px;
+}
+
+.container3 {
+    display: flex;
+    flex-direction: column;
+    border: 2px solid rgb(255, 255, 255);
+    float: right;
+    margin: 413px 153px 55px 55px;
+    width: 100%;
+    max-width: 720px;
+    background: rgba(0, 0, 0, 0.65);
+    box-shadow: rgb(9 0 63 / 38%) 0px 34px 101px;
+    border-radius: 24px;
+}
